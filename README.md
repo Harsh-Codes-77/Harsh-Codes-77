@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Hi, I'm Harsh 👋  <br><br>Full Stack Developer focused on building scalable, real-world applications.<br><br>I work with modern web technologies to turn ideas into production-ready products — not just tutorials.<br><br>- 🚀 Currently building: Real-world projects & tools<br>- 💻 Tech: JavaScript, React, Node.js, MongoDB<br>- ⚡ Focus: Performance, clean architecture, and practical solutions<br><br>I believe in learning by building and shipping, not just consuming content.</h3>
+<h3 align="left">Hi, I'm Harsh...!  <br><br>Full Stack Developer focused on building scalable, real-world applications.<br><br>I work with modern web technologies to turn ideas into production-ready products — not just tutorials.<br><br>- 🚀 Currently building: Real-world projects & tools<br>- 💻 Tech: JavaScript, React, Node.js, MongoDB<br>- ⚡ Focus: Performance, clean architecture, and practical solutions<br><br>I believe in learning by building and shipping, not just consuming content.</h3>
 
 ###
 
