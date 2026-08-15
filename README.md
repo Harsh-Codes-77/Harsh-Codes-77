@@ -91,7 +91,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Harsh-Codes-77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=Harsh-Codes-77&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" height="150" alt="stats graph"  />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Harsh-Codes-77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Harsh-Codes-77&theme=github-dark-blue&hide_border=false&border_radius=5&locale=en&mode=daily&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Codes-77&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
